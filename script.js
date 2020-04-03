@@ -116,22 +116,11 @@ console.log(appData);
 let day1 = money / 30;
 
 alert(day1);
-
-
-
-
 let G = 1;
 
-
-
-
-
-
-
-
-
-
 */
+
+
 
 
 
@@ -165,7 +154,7 @@ for (let i = 1; i <= 8; i++) {
 alert( "1"[0] );
 */
 
-
+/*
 function calc(a,b) {
     return (a + b);
 }
@@ -183,3 +172,12 @@ let str = "test";
 
 //let lengthStr = str.length;
 console.log(str);
+console.log(str.toUpperCase());
+console.log(str.toLowerCase());
+*/
+let twelve = 12.1;
+console.log(parseInt(twelve));
+console.log(parseFloat(twelve));
+
+
+
