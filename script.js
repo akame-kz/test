@@ -88,7 +88,7 @@ switch (num) {
 
 
 
-
+/*
 
 let money = prompt("Бюджет на месяц?", "100"),
     time = prompt("Введите дату в формате YYYY-MM-DD", "YYYY-MM-DD");
@@ -131,6 +131,7 @@ let G = 1;
 
 
 
+*/
 
 
 
@@ -138,8 +139,7 @@ let G = 1;
 
 
 
-
-
+/*
 
 let num = 50;
 
@@ -163,3 +163,23 @@ for (let i = 1; i <= 8; i++) {
     console.log(i);
 }
 alert( "1"[0] );
+*/
+
+
+function calc(a,b) {
+    return (a + b);
+}
+
+function retVar() {
+    let num = 50;
+    return num;
+}
+
+let anotherNum = retVar();
+
+let cal = (a, b) => a+b
+
+let str = "test";
+
+//let lengthStr = str.length;
+console.log(str);
