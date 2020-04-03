@@ -120,7 +120,7 @@ alert(day1);
 
 
 
-
+let G = 1;
 
 
 

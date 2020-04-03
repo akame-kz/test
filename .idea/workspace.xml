@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1ee4f7a-bc41-425a-afcb-3dff2a379f4e" name="Default Changelist" comment="" />
+    <list default="true" id="c1ee4f7a-bc41-425a-afcb-3dff2a379f4e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +23,9 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZzGLUU4OARp31r3MWg3r6Jvwds" />
   <component name="ProjectViewState">
@@ -46,6 +52,7 @@
       <workItem from="1585834453226" duration="4067000" />
       <workItem from="1585913942379" duration="1532000" />
       <workItem from="1585920839122" duration="6161000" />
+      <workItem from="1585939789385" duration="20000" />
     </task>
     <servers />
   </component>
@@ -53,10 +60,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1616" y="544" key="com.intellij.ide.util.TipDialog" timestamp="1585920839136">
+    <state x="1616" y="544" key="com.intellij.ide.util.TipDialog" timestamp="1585939790856">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="1616" y="544" key="com.intellij.ide.util.TipDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1585920839136" />
+    <state x="1616" y="544" key="com.intellij.ide.util.TipDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1585939790856" />
     <state x="1583" y="330" width="672" height="678" key="search.everywhere.popup" timestamp="1585921004235">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
