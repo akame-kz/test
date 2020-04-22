@@ -1,4 +1,4 @@
-'use strict';
+
 /* // Переменная, имя не должно начинаться с цифры
 var leftBorderWidth = 1;
 //Переменные, ускоряют работу
@@ -174,10 +174,11 @@ let str = "test";
 console.log(str);
 console.log(str.toUpperCase());
 console.log(str.toLowerCase());
-*/
+
 let twelve = 12.1;
 console.log(parseInt(twelve));
 console.log(parseFloat(twelve));
 
+*/
 
-
+console.log('hello');
